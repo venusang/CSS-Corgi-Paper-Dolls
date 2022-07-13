@@ -1,15 +1,14 @@
 .funny-glasses {
-  position: absolute;
-  top: 312px;
-  left: 428px;
+  position: relative;
+  bottom: 108px;
+  left: 212px;
 }
 
 .bandana {
-  width: 80px;
   transform: rotate(30deg);
-  position: absolute;
-  left: 87px;
-  top: 175px;
+  position: relative;
+  right: 143px;
+  bottom: 65px;
 }
 
 .pawprint {

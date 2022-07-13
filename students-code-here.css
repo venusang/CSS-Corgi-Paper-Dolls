@@ -19,9 +19,7 @@
 }
 
 .stick-corgi {
-  position: sticky;
-  left: 0;
-  top: 0;
+  position: absolute;
 }
 
 .top-hat {
